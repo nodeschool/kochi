@@ -1,21 +1,19 @@
-Bengaluru
+Kochi
 =========
 
-Bengaluru nodeschool Chapter
+Kochi nodeschool Chapter
 
 Mentors are Being Invited for the Node School Event.
 
 
-If any One Intrested to part of this event as a mentor Please contact us in the Issues Section for <a href="https://github.com/nodeschool/bangalore/issues/4">Mentors Required</a>  Issues
+If any One Intrested to part of this event as a mentor Please contact us in the Issues Section.
 
 Stay Connected with us on
 
-<a href="http://www.meetup.com/Bengaluru-Nodeschool-Event/" target="_blank">NodeSchool Meetup </a>
+<a href="http://www.meetup.com/Kochi-Nodeschool-Event/" target="_blank">NodeSchool Meetup </a>
 
-<a href="https://twitter.com/BLRNodejs" target="_blank">@BLRNodejs</a>
+<a href="https://twitter.com/BLRNodejs" target="_blank">@KochiNodejs</a>
 
-Date and Time: Saturday, 10 JAN 2015 - 10 AM
+Date and Time: TBD
 
-Venue: Cubic Business Centre, 10, 7th Cross Road
-Jakasandra Block, Koramangala 3 Block, Koramangala
-Bengaluru, Karnataka 560034
+Venue: TBD
